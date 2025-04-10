@@ -24,7 +24,7 @@ function App() {
 
   return (
     <section className="container mx-auto px-4 py-8">
-      <h1 className="text-4xl font-bold mb-4 text-center">Full Name Dispaly</h1>
+      <h1 className="text-4xl font-bold mb-4 text-center">Full Name Display</h1>
       <form onSubmit={handleSubmit} className="space-y-2 w-full max-w-sm mx-auto">
         <div>
           <label htmlFor="name" className="block ml-2 text-gray-700">
